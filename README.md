@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.gif" alt="Animated pixel-art banner: a developer coding while a neural network lights up" width="100%" />
+  <img src="banner.png" alt="Neural network banner: churn prediction data stream" width="100%" />
 </p>
+
 <h1 align="center">Hi, I'm Vishesh Savarn 👋</h1>
 
 I build machine learning projects and web apps, and I like turning them into something people can actually use.
