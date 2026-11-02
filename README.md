@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=140&section=header" alt="header" />
+  <img src="banner.gif" alt="Animated pixel-art banner: a developer coding while a neural network lights up" width="100%" />
 </p>
-
 <h1 align="center">Hi, I'm Vishesh Savarn 👋</h1>
 
 I build machine learning projects and web apps, and I like turning them into something people can actually use.
