@@ -56,11 +56,11 @@ I build machine learning projects and web apps, and I like turning them into som
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack | Links |
-|:--|:--|:--|:--|
-| [Algerian Forest Fire FWI Prediction](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) | Predicts the Fire Weather Index (FWI) from weather and fire-index data using a Ridge regression model. Includes Flask and Streamlit web apps | Python, Scikit-learn, Ridge Regression, Flask, Streamlit | [Code](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) |
-| [Nova Cart E-commerce](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) | Modern responsive e-commerce portfolio website with product filtering, category-based recommendations, smooth animations, premium UI and testimonials | HTML, CSS, JavaScript | [Code](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) |
+|---|---|---|---|
+| [Algerian Forest Fire FWI Prediction](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) | Predicts the Fire Weather Index (FWI) from weather data using Ridge regression, served through Flask and Streamlit apps | Ridge Regression, Scikit-learn, Flask, Streamlit | [Code](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) |
+| [Nova Cart E-commerce](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) | Responsive e-commerce site with product filtering, category-based recommendations and smooth animations | HTML, CSS, JavaScript | [Code](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) |
 | [Laundry Service Web App](https://github.com/visheshsavarn/laundryserviceswebapp) | Web app for a laundry service | HTML | [Code](https://github.com/visheshsavarn/laundryserviceswebapp) |
-| [LeetCode Practice](https://github.com/visheshsavarn/leetcode-practice) | My LeetCode problem solutions and practice | DSA | [Code](https://github.com/visheshsavarn/leetcode-practice) |
+| [DSA Practice](https://github.com/visheshsavarn/leetcode-practice) | LeetCode problem solutions and practice | Problem solving | [Code](https://github.com/visheshsavarn/leetcode-practice) |
 
 ---
 
