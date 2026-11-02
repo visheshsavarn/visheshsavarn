@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Banner.png" alt="Neural network banner: churn prediction data stream" width="100%" />
+  <img src="Banner.gif" alt="Neural network banner: churn prediction data stream" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Vishesh Savarn 👋</h1>
