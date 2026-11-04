@@ -19,6 +19,7 @@ I build machine learning projects and web apps, and I like turning them into som
 </p>
 
 - 🔭 Built a **Fire Weather Index (FWI) predictor** using Ridge regression, with both Flask and Streamlit web apps
+- 🚗 Built a **used car price estimator (AutoValue)** for the Indian market using polynomial regression with LassoCV, with a Streamlit web app
 - 🌐 Built web projects like **Nova Cart**, a responsive e-commerce portfolio site, and a laundry service web app
 - 🧩 Practicing problem solving on LeetCode
 - 📫 Reach me at **visheshsavarn@gmail.com**
@@ -57,6 +58,7 @@ I build machine learning projects and web apps, and I like turning them into som
 
 | Project | What it does | Stack | Links |
 |---|---|---|---|
+| [UsedCar Price Estimator (AutoValue)](https://github.com/visheshsavarn/UsedCar-Price-Estimator) | Predicts the resale price of a used car in India from its specifications and ownership details using polynomial regression with LassoCV, served through a Streamlit app | Polynomial Regression, LassoCV, Scikit-learn, Pandas, NumPy, Streamlit | [Code](https://github.com/visheshsavarn/UsedCar-Price-Estimator) |
 | [Algerian Forest Fire FWI Prediction](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) | Predicts the Fire Weather Index (FWI) from weather data using Ridge regression, served through Flask and Streamlit apps | Ridge Regression, Scikit-learn, Flask, Streamlit | [Code](https://github.com/visheshsavarn/algerian-forest-fire-fwi-prediction) |
 | [Nova Cart E-commerce](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) | Responsive e-commerce site with product filtering, category-based recommendations and smooth animations | HTML, CSS, JavaScript | [Code](https://github.com/visheshsavarn/Nova-Cart-E-commerce-) |
 | [Laundry Service Web App](https://github.com/visheshsavarn/laundryserviceswebapp) | Web app for a laundry service | HTML | [Code](https://github.com/visheshsavarn/laundryserviceswebapp) |
